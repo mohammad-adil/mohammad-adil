@@ -1,5 +1,5 @@
 ![BannerGIF](https://github.com/mohammad-adil/mohammad-adil/blob/main/Mohmmad%20Adil%20Shah.gif)
-  
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
   
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! I'm Adil, a web developer from Srinagar, Jammu and Kashmir.
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
