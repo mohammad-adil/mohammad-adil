@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Mohammad Adil Shah" />
-</h1>
+
 
 ## Hey! 👋
 I'm Adil, a web developer from Srinagar, Jammu and Kashmir.
