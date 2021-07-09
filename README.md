@@ -1,5 +1,7 @@
-
-
+![BannerGIF](https://github.com/mohammad-adil/mohammad-adil/blob/main/Mohmmad%20Adil%20Shah.gif)
+  
+  
+  
 ## Hey! 👋
 I'm Adil, a web developer from Srinagar, Jammu and Kashmir.
 
@@ -11,4 +13,4 @@ I'm Adil, a web developer from Srinagar, Jammu and Kashmir.
 ## Contact
 - [@shahaadil](https://twitter.com/theshahaadil) on Twitter
 - [@shahaadil](https://twitter.com/theaadilshah) on Instagram
--[@shahaadil] shahaadil13@gmail.com
+ -  shahaadil13@gmail.com
