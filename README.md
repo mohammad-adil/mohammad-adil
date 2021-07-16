@@ -24,6 +24,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Contact
-- [@shahaadil](https://twitter.com/theshahaadil) on Twitter
-- [@shahaadil](https://twitter.com/theaadilshah) on Instagram
+- [@theshahaadil](https://twitter.com/theshahaadil) on Twitter
+- [@theaadilshah](https://twitter.com/theaadilshah) on Instagram
  -  shahaadil13@gmail.com
