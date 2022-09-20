@@ -7,6 +7,7 @@
 [![Mohmmad Adil Shah](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/mohammad-adil)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
   
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-adil&label=Profile%20views&color=0e75b6&style=flat" alt="tabeed-h" /> </p>
 
 
 ### 🛠 &nbsp;Tech Stack
